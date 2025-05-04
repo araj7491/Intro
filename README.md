@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ankit Raj
 - 👀 I’m interested in Web Development.
-- 🌱 I’m currently learning MERN Stack Web Development along with Cloud Integration.
+- 🌱 I’m currently learning Full Stack Web Development along with Cloud Integration.
 - 💞️ I’m looking to collaborate on new projects.
 - 📫 Reach me on LinkedIn: https://www.linkedin.com/in/ankit-raj-3594b6237/
 - 😄 Pronouns: He/Him
